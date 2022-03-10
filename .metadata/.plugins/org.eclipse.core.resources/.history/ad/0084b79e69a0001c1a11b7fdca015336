@@ -1,0 +1,9 @@
+@API_Testing
+Feature: API Tesing
+  
+
+  @TC001
+  Scenario: TC001 API Tesing
+    Given I want to write a step with precondition
+    And some other precondition
+   

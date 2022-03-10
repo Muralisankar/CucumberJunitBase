@@ -1,0 +1,15 @@
+package stepDefinitions;
+
+public class stepDefinition {
+	
+	 @Given("^API Testing Sample1$")
+	    public void api_testing_sample1() throws Throwable {
+	        throw new PendingException();
+	    }
+
+	    @And("^API Testing Sample2$")
+	    public void api_testing_sample2() throws Throwable {
+	        throw new PendingException();
+	    }
+
+}

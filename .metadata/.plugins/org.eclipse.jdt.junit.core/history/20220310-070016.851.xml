@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="Automation" tests="3" started="3" failures="0" errors="0" ignored="3">
+  <testsuite name="cucumberOptions.TestRunner" time="0.001">
+    <testsuite name="Feature: API Tesing" time="0.001">
+      <testsuite name="Scenario: TC001 API Tesing" time="0.001">
+        <testcase name="Given API Testing Sample1" classname="Scenario: TC001 API Tesing" time="0.0" ignored="true"/>
+        <testcase name="And API Testing Sample2" classname="Scenario: TC001 API Tesing" time="0.001" ignored="true"/>
+        <testcase name="Then API Testing Sample3" classname="Scenario: TC001 API Tesing" time="0.0" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
