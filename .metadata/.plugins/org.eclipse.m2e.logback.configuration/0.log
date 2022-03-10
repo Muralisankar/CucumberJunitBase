@@ -533,3 +533,5 @@
 2022-03-10 10:04:16,219 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\JUnitCucumber\Automation\src\test\resources
 2022-03-10 10:09:16,613 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-03-10 10:09:16,613 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\JUnitCucumber\Automation\src\main\resources
+2022-03-10 10:09:16,619 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-03-10 10:09:16,620 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\WorkSpace\JUnitCucumber\Automation\src\test\resources
